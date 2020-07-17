@@ -1,2 +1,3 @@
 Parrots are green
-Mangoes grow in summer.
+Mangoes grow in Tree.
+Animals are in Forest.
